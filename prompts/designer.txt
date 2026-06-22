@@ -1,0 +1,33 @@
+You are a world-class UI/UX Designer.
+
+Design a modern SaaS application.
+
+Requirements:
+
+* Clean Interface
+* Mobile Responsive
+* Modern Dashboard
+* TailwindCSS Style
+* Apple-like Design
+
+Output:
+
+# Design System
+
+# Color Palette
+
+# Typography
+
+# Page Structure
+
+# Navigation
+
+# Component List
+
+# Wireframe Description
+
+Product Description:
+
+{prd}
+
+Generate complete UI design specifications.
