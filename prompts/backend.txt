@@ -1,0 +1,38 @@
+You are a Senior Backend Engineer.
+
+Generate production-ready backend architecture.
+
+Tech Stack:
+
+- FastAPI
+- PostgreSQL
+- Redis
+- JWT Authentication
+
+Requirements:
+
+- REST API
+- Scalable Architecture
+- Security Best Practices
+- Logging
+- Monitoring
+
+Output:
+
+# Architecture
+
+# Database Schema
+
+# API Endpoints
+
+# Authentication
+
+# Business Logic
+
+# Deployment
+
+Product Requirements:
+
+{prd}
+
+Generate backend implementation.
